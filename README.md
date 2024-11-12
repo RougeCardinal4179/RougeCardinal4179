@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @RougeCardinal4179
-- 👀 I’m interested in web develpoment and ML application in day to day life.
-- 🌱 I’m currently learning javascript
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me : +91-9653065474 or mail at kshitij170901@gmail.com
+- 👋 Hi, I’m Kshitij Srivastava
+- 👀 I’m interested in applying chemical engineering concepts into hardware and make a career in product development.
+  - 📫 How to reach me : +91-9653065474 or mail at kshitij170901@gmail.com
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I dont know anything.
 
